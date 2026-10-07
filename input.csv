@@ -1,0 +1,9 @@
+employee_id,name,email,age,city,salary,joining_date
+101,  Ravi Kumar ,ravi@example.com,24, Hyderabad ,65000,2026-09-01
+102,Priya Sharma,,27,Bengaluru,72000,2026-09-02
+103,Akhil Reddy,akhil@example.com,,Chennai,68000,2026-09-03
+104,  Sneha Rao,sneha@example.com,29,Hyderabad,invalid,2026-09-04
+105,Kiran Das,kiran@example.com,31, Bengaluru ,81000,2026-09-05
+105,Kiran Das,kiran@example.com,31, Bengaluru ,81000,2026-09-05
+106,Manoj,manoj@example.com,26,,59000,2026-09-06
+107,Lakshmi,lakshmi@example.com,22,Chennai,62000,bad-date
