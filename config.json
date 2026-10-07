@@ -1,0 +1,11 @@
+{
+    "input_file": "data/input.csv",
+    "output_file": "data/output/processed_data.csv",
+    "log_file": "logs/pipeline.log",
+    "missing_city": "Unknown",
+    "missing_email": "Not Provided",
+    "missing_age": 0,
+    "invalid_salary": 0,
+    "invalid_date": "Unknown",
+    "salary_round_digits": 2
+}
