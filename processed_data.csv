@@ -1,0 +1,13 @@
+customer_id,name,email,city,age,salary,join_date,salary_band
+1001,Akhila,akhila@gmail.com,Kadapa,21,45000,2026-09-01,Low
+1002,Ravi,ravi@gmail.com,Bengaluru,24,52000,2026-09-02,Medium
+1003,Sita,unknown@example.com,Hyderabad,0,48000,2026-09-03,Low
+1004,Kiran,kiran@gmail.com,Hyderabad,27,0,2026-09-04,Low
+1005,Priya,priya@gmail.com,Unknown,23,55000,2026-09-05,Medium
+1006,Arun,arun@gmail.com,Chennai,0,47000,2026-09-06,Low
+1007,Meena,meena@gmail.com,Bengaluru,29,60000,2026-09-07,High
+1008,Vijay,vijay@gmail.com,Kadapa,31,58000,2026-09-08,Medium
+1009,Anu,anu@gmail.com,Hyderabad,22,51000,2026-09-09,Medium
+1010,Rahul,rahul@gmail.com,Chennai,25,49500,2026-09-10,Low
+1011,Lakshmi,lakshmi@gmail.com,Bengaluru,28,62000,2026-09-11,High
+1012,Naveen,naveen@gmail.com,Kadapa,30,50000,2026-09-12,Medium
